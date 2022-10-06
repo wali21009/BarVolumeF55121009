@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarVolume(F55121009)</string>
+    <string name="length">panjang</string>
+    <string name="width">lebar</string>
+    <string name="height">tinggi</string>
+    <string name="count">hitung</string>
+    <string name="result">hasil</string>
+</resources>
